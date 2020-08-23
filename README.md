@@ -22,5 +22,5 @@ O objetivo do trabalho é avaliar o _dataset_ *diabestes.csv*, disponível em ht
 1. Carregamento dos dados;
 2. Análise exploratória;
 3. Definição dos modelos de aprendizagem;
-Utilização dos modelos;
-Discussão dos resultados.
+4. Utilização dos modelos;
+5. Discussão dos resultados.
