@@ -15,7 +15,7 @@ Trabalho final da disciplina de Machine Learning - Pós-graduação em Data Scie
 
 ## Descrição
 
-O objetivo do trabalho é avaliar o _dataset_ *diabestes.csv*, disponível em https://www.kaggle.com/uciml/pima-indians-diabetes-database, realizando análise exploratória e executando o aprendizado de máquina (_machine learning_) utilizando três modelos de aprendizagem, que serão discutidos ao longo do desenvolvimento do trabalho.
+O objetivo do trabalho é avaliar o Dataset *diabetes.csv*, disponível em https://www.kaggle.com/uciml/pima-indians-diabetes-database, realizando análise exploratória e executando o aprendizado de máquina (_machine learning_) utilizando três modelos de aprendizagem, que serão discutidos ao longo do desenvolvimento do trabalho.
 
 ## Passos
 
@@ -24,3 +24,18 @@ O objetivo do trabalho é avaliar o _dataset_ *diabestes.csv*, disponível em ht
 3. Definição dos modelos de aprendizagem;
 4. Utilização dos modelos;
 5. Discussão dos resultados.
+
+## Atributos do _Dataset_:
+1. Number of times pregnant
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+3. Diastolic blood pressure (mm Hg)
+4. Triceps skin fold thickness (mm)
+5. 2-Hour serum insulin (mu U/ml)
+6. Body mass index (weight in kg/(height in m)^2)
+7. Diabetes pedigree function
+8. Age (years)
+9. Class variable (0 or 1)
+
+## Mais informações sobre diabetes:
+- https://www.endocrino.org.br/10-coisas-que-voce-precisa-saber-sobre-diabetes/
+
