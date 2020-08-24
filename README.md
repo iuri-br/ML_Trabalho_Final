@@ -17,15 +17,16 @@ Trabalho final da disciplina de Machine Learning - Pós-graduação em Data Scie
 
 O objetivo do trabalho é avaliar o Dataset *diabetes.csv*, disponível em https://www.kaggle.com/uciml/pima-indians-diabetes-database, realizando análise exploratória e executando o aprendizado de máquina (_machine learning_) utilizando três modelos de aprendizagem, que serão discutidos ao longo do desenvolvimento do trabalho.
 
-## Passos
+## Passos / Desenvolvimento do _Notebook_ Jupyter
 
 1. Carregamento dos dados;
 2. Análise exploratória;
-3. Definição dos modelos de aprendizagem;
-4. Utilização dos modelos;
-5. Discussão dos resultados.
+3. Tratamento dos dados;
+4. Definição dos modelos de aprendizagem;
+5. Utilização dos modelos;
+6. Discussão dos resultados.
 
-## Atributos do _Dataset_:
+## Atributos do _Dataset_ (descrição obtida no site fonte do arquivo)
 1. Number of times pregnant
 2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 3. Diastolic blood pressure (mm Hg)
