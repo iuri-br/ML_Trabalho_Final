@@ -44,7 +44,7 @@ O objetivo do trabalho é avaliar o Dataset *diabetes.csv*, disponível em https
 ## Resultado
 
 O resultado das análises consta no final dos _Notebooks_ Jupyter presente nesse repositório.
-*Importante frisar a diferença obtida nos resultados sem e com a _feature engineering_, de modo com que os preditores e seus fatores de importância estejam mais próximos da realidade - compare os _Notebooks_ e perceba a diferença*
+*Importante frisar a diferença obtida nos resultados sem e com a _feature engineering_, de modo com que os preditores e seus fatores de importância estejam mais próximos da realidade - compare os _Notebooks_ e perceba a diferença*. Compare, por exemplo, o gráfico de importância das variáveis e veja como é importante o tratamento de dados zerados, bem como o entendimento do significado de cada preditor.
 
 ## Informações Complementares:
 - https://www.endocrino.org.br/10-coisas-que-voce-precisa-saber-sobre-diabetes/
