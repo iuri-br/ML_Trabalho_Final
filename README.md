@@ -1,6 +1,10 @@
 # ML_Trabalho_Final
 Trabalho final da disciplina de Machine Learning - Pós-graduação em Data Science na Faesa, pelos alunos Iúri Brandão e Júlio Scopel.
 
+## Importante!
+
+Nesse repositório há dois _Notebooks_ Jupyter, sendo que no arquivo mais recente foram realizados tratamentos dos dados (_feature engineering_), de modo a *trazer os valores zerados de insulina e glicose, dentre outros, para perto da realidade*.
+
 ## Instruções
 
 1. Pesquise e selecione uma coleção (https://archive.ics.uci.edu/ , https://www.kaggle.com/ , outra fonte de sua escolha desde que coloque a referência);
@@ -39,7 +43,8 @@ O objetivo do trabalho é avaliar o Dataset *diabetes.csv*, disponível em https
 
 ## Resultado
 
-O resultado das análises consta no final do _Notebook_ Jupyter presente nesse repositório.
+O resultado das análises consta no final dos _Notebooks_ Jupyter presente nesse repositório.
+*Importante frisar a diferença obtida nos resultados sem e com a _feature engineering_, de modo com que os preditores e seus fatores de importância estejam mais próximos da realidade - compare os _Notebooks_ e perceba a diferença*
 
 ## Informações Complementares:
 - https://www.endocrino.org.br/10-coisas-que-voce-precisa-saber-sobre-diabetes/
