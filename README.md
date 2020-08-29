@@ -37,7 +37,16 @@ O objetivo do trabalho é avaliar o Dataset *diabetes.csv*, disponível em https
 8. Age (years)
 9. Class variable (0 or 1)
 
+## Resultado
+
+O resultado das análises consta no final do _Notebook_ Jupyter presente nesse repositório.
+
 ## Informações Complementares:
 - https://www.endocrino.org.br/10-coisas-que-voce-precisa-saber-sobre-diabetes/
+- https://www.vooo.pro/insights/um-tutorial-completo-sobre-a-modelagem-baseada-em-tree-arvore-do-zero-em-r-python/
+- https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8
+- https://www.vooo.pro/insights/6-passos-faceis-para-aprender-o-algoritmo-naive-bayes-com-o-codigo-em-python/
+- https://www.dezyre.com/article/top-10-machine-learning-algorithms/202
+
 
 
