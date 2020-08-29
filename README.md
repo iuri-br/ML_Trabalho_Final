@@ -37,6 +37,7 @@ O objetivo do trabalho é avaliar o Dataset *diabetes.csv*, disponível em https
 8. Age (years)
 9. Class variable (0 or 1)
 
-## Mais informações sobre diabetes:
+## Informações Complementares:
 - https://www.endocrino.org.br/10-coisas-que-voce-precisa-saber-sobre-diabetes/
+
 
